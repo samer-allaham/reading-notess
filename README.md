@@ -1,8 +1,10 @@
 # reading-notess
 
 
-this is my first **website**
+this is my second **website**
 
-my favourite movies are
+
 - Harry potter
-- lord of the rings
+- home alone
+
+this is the [link](https://en.wikipedia.org/wiki/Harry_Potter) to the wikipidea for harry potter
